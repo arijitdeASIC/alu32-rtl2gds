@@ -82,6 +82,14 @@ paths through the ALU logic.
 
 ---
 
+### Placement & Routing Detail
+
+![Placement](screenshots/02_placed1.png)
+*Standard-cell placement — 0.13% routing congestion*
+
+![Routing Detail](screenshots/05_final2(zoomed).png)
+*Zoomed view — standard cells, M1 rails, and signal routing*
+
 ## Flow
 
 ```
