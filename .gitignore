@@ -1,0 +1,19 @@
+# tool work / logs / large binaries - keep the repo clean for GitHub
+*.log
+*.vvp
+*.vcd
+syn/work/
+*.ddc
+*.mr
+*.pvl
+*.syn
+command.log
+filenames.log
+default.svf
+*_lib/
+*.ndm/
+pnr/output/*.gds
+pnr/output/*.spef
+pnr/output/*.sdf
+# DO commit: rtl/, tb/, constraints/, all scripts, README, and report SNAPSHOTS
+# you choose to keep (copy key .rpt files out of */reports/ if you want them tracked)
