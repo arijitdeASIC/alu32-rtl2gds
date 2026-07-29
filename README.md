@@ -115,11 +115,8 @@ Signoff STA  ── PrimeTime  (planned follow-up)
 ├── scripts/
 │   ├── dc.tcl                           — Design Compiler synthesis
 │   ├── icc2.tcl                         — IC Compiler II PnR
-│   └── pt.tcl                           — PrimeTime signoff (STA)
-├── reports/                             — QoR, timing, area, DRC reports
-├── screenshots/                         — floorplan, PG, placement, routing
-└── gds/              alu32.gds.gz       — final routed layout
-```
+│   └── pt.tcl                           — PrimeTime signoff (planned)
+└── screenshots/                         — power grid, placement, routed layout
 
 ---
 
